@@ -1,0 +1,18 @@
+---
+id: 0
+name: Testnet deployment
+network: testnet
+stacks-node: "https://api.testnet.hiro.so"
+bitcoin-node: "http://blockstack:blockstacksystem@bitcoind.testnet.stacks.co:18332"
+plan:
+  batches:
+    - id: 0
+      transactions:
+        - contract-publish:
+            contract-name: RefugeeAidPlatform
+            expected-sender: ST39NCZB09M702WJEYB338M16DYGRKSMH6P2P8KH8
+            cost: 63520
+            path: "contracts\\RefugeeAidPlatform.clar"
+            anchor-block-only: true
+            clarity-version: 3
+      epoch: "3.2"
