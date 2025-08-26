@@ -1,5 +1,4 @@
 # RefugeeAid Platform
-
 ## Project Description
 
 The RefugeeAid Platform is a revolutionary blockchain-based humanitarian solution designed to support displaced populations through transparent aid distribution and secure identity management. Built on the Stacks blockchain using Clarity smart contracts, this platform addresses critical challenges in humanitarian aid delivery by ensuring transparency, accountability, and direct access to assistance for refugees and displaced individuals.
