@@ -82,27 +82,14 @@ Network: Stacks Testnet
 Explorer Link: [To be added]
 Deployment Block: #3528286  -> #83927
 Transaction ID : '0xff3488eae9d7abf9e1c47aa3197d0a80c964e938c929f19ee0689faba1a93416'
-
-Stacks Mainnet
-
-Contract Address: [To be added after mainnet deployment]
-Network: Stacks Mainnet
-Explorer Link: [To be added]
-Deployment Block: [To be added]
-Contract Owner: [To be added]
-Verification Status: [Pending security audit]
+Deployed by : ST39NCZB09M702WJEYB338M16DYGRKSMH6P2P8KH8
+Block hash : 0x78d91c97b319702883790413f90788dba3083fb7a4b78c1a7686e1e4d2e62d75
 
 Additional Information
 
 Source Code: Available in this repository
 License: MIT License (Open Source)
-Security Audit: [To be scheduled before mainnet deployment]
-Bug Bounty Program: [To be announced]
 
-Integration Resources
 
-API Documentation: [Coming soon]
-SDK Repository: [To be developed]
-Developer Portal: [In planning]
-Community Discord: [To be created]
+
 
